@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Categorías y páginas por familia y profundidad\n"
+"POT-Creation-Date: 2019-01-28 21:15+0100\n"
+"PO-Revision-Date: 2019-01-28 21:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: family-widgets.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: related-cats.php:9
+msgid "Categories per family"
+msgstr "Categorías por familia"
+
+#: related-cats.php:39 related-pages.php:39
+msgid "Title"
+msgstr "Título"
+
+#: related-cats.php:46 related-pages.php:46
+msgid "Try to show something when no selector found"
+msgstr "Intentar mostrar algo cuando no se encuentre la selección"
+
+#: related-cats.php:51 related-pages.php:51
+msgid "yes"
+msgstr "sí"
+
+#: related-cats.php:52 related-pages.php:52
+msgid "no"
+msgstr ""
+
+#: related-cats.php:64
+msgid "top category limit:"
+msgstr "limite categ. superior:"
+
+#: related-cats.php:70
+msgid "show in top categ."
+msgstr "mostrar en categ. superior."
+
+#: related-cats.php:75 related-cats.php:102 related-cats.php:129
+#: related-cats.php:156 related-pages.php:74 related-pages.php:101
+#: related-pages.php:128 related-pages.php:155
+msgid "Select"
+msgstr "Selecciona"
+
+#: related-cats.php:76 related-cats.php:103 related-cats.php:130
+#: related-cats.php:157 related-pages.php:75 related-pages.php:102
+#: related-pages.php:129 related-pages.php:156
+msgid "Parents"
+msgstr "Padres"
+
+#: related-cats.php:77 related-cats.php:104 related-cats.php:131
+#: related-cats.php:158 related-pages.php:76 related-pages.php:103
+#: related-pages.php:130 related-pages.php:157
+msgid "Siblings"
+msgstr "Hermanas"
+
+#: related-cats.php:78 related-cats.php:105 related-cats.php:132
+#: related-cats.php:159 related-pages.php:77 related-pages.php:104
+#: related-pages.php:131 related-pages.php:158
+msgid "Daughters"
+msgstr "Hijas"
+
+#: related-cats.php:91 related-pages.php:90
+msgid "depth limit 1:"
+msgstr "límite profundidad 1:"
+
+#: related-cats.php:97 related-pages.php:96
+msgid "show in depth 1"
+msgstr "mostrar en profundidad 1"
+
+#: related-cats.php:118 related-pages.php:117
+msgid "depth limit 2:"
+msgstr "límite profundidad 2:"
+
+#: related-cats.php:124 related-pages.php:123
+msgid "show in depth 2"
+msgstr "mostrar en profundidad 2"
+
+#: related-cats.php:145 related-pages.php:144
+msgid "depth limit 3:"
+msgstr "límite profundidad 3:"
+
+#: related-cats.php:151 related-pages.php:150
+msgid "show in depth 3"
+msgstr "mostrar en profundidad 3"
+
+#: related-pages.php:9
+msgid "Pages per family"
+msgstr "Páginas por familia"
+
+#: related-pages.php:63
+msgid "top pages limit:"
+msgstr "límite págs superiores:"
+
+#: related-pages.php:69
+msgid "show in top pages"
+msgstr "mostrar en págs. superiores"
+
+#. Plugin Name of the plugin/theme
+msgid "Categorías y páginas por familia y profundidad"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://javibertolez.es/nuestros-plugins-wordpress/categorias-y-paginas-por-"
+"familia-y-profundidad/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Show with widgets and shortcodes the pages and categories you need based on "
+"their relationships and depth. Idea of: <a href=\"https://www.yoseomarketing."
+"com/\"> YoseoMarketing </a>"
+msgstr ""
+"Muestra con widgets y shortcodes las páginas y categorías que necesites en "
+"base a sus relaciones y profundidad. Idea de: <a href=\"https://www."
+"yoseomarketing.com/\">YoseoMarketing</a>"
+
+#. Author of the plugin/theme
+msgid "Javibertolez"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.javibertolez.es"
+msgstr ""
+
+#~ msgid "Try to show always something"
+#~ msgstr "Intentar mostrar contenido al no encontrar la selección"
